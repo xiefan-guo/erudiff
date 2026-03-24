@@ -1,2 +1,1 @@
-# erudiff
-[arXiv 2026] EruDiff: Refactoring Knowledge in Diffusion Models for Advanced Text-to-Image Synthesis
+## Refactoring Knowledge in Diffusion Models for Advanced T2I<br><sub>Official PyTorch code release for the arXiv 2026 paper: [https://arxiv.org/abs/2603.20828](https://arxiv.org/abs/2603.20828)</sub>
