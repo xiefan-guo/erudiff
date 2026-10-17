@@ -1,2 +1,20 @@
-*.DS_Store
-*/*.DS_Store
+__pycache__/
+*.py[cod]
+*.egg-info/
+.venv/
+venv/
+
+# training outputs and generated images
+runs/
+out/
+*.log
+*.safetensors
+*.png
+
+# downloaded / derived data (sample_train.jsonl is tracked)
+data/*.json
+data/train.jsonl
+
+.ipynb_checkpoints/
+.pytest_cache/
+.DS_Store
