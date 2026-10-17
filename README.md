@@ -119,10 +119,10 @@ true WiScore.
 
 ```bibtex
 @inproceedings{guo2026erudiff,
-  title={EruDiff: Refactoring Knowledge in Diffusion Models for Advanced Text-to-Image Synthesis},
-  author={Guo, Xiefan and Ma, Xinzhu and Ma, Haoxiang and Zhou, Zihao and Huang, Di},
-  booktitle={European Conference on Computer Vision (ECCV)},
-  year={2026}
+  title     = {EruDiff: Refactoring Knowledge in Diffusion Models for Advanced Text-to-Image Synthesis},
+  author    = {Guo, Xiefan and Ma, Xinzhu and Ma, Haoxiang and Zhou, Zihao and Huang, Di},
+  booktitle = {European Conference on Computer Vision (ECCV)},
+  year      = {2026}
 }
 ```
 
